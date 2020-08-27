@@ -29,8 +29,7 @@ class Student
   def self.find_by_name 
   end
   
-  def self.
+  def self.update
   end
-  
   
 end
