@@ -11,7 +11,10 @@ class Student
     @id = id
   end 
   
-  def 
+  def self.create_table
+  end
+  
+  def self.
   end
   
   
