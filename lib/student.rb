@@ -26,7 +26,7 @@ class Student
   def self.new_from_db
   end
   
-  def self.
+  def self.find_by_name 
   end
   
   
