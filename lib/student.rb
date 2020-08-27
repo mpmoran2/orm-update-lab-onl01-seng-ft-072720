@@ -5,7 +5,13 @@ class Student
   attr_accessor :name, :grade
   attr_reader :id
   
-  def 
+  def initialize(name, grade, id=nil)
+    @name = name
+    @grade = grade
+    @id = id
   end 
-
+  
+  def 
+  end
+  
 end
